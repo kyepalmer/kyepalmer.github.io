@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2022-emotional-expressions-infants-environment-sasp
 venue: "Society of Australasian Social Psychologists Conference 2022"
-date: 2022-24-11
+date: 2022-11-24
 location: "Adelaide, South Australia"
 ---
 

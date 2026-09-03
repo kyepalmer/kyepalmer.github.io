@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2025-parent-child-emotion-recognition-epc-apcv
 venue: "Australasian Experimental Psychology Conference (EPC) & Asia Pacific Conference on Vision (APCV)"
-date: 2025-18-06
+date: 2025-06-18
 location: "Sydney, NSW, Australia"
 ---
 
