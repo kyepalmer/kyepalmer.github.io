@@ -1,0 +1,27 @@
+.archive__item {
+  border: 1px solid #e1e1e1;
+  border-radius: 10px;
+  padding: 1.25em;
+  margin-bottom: 1.5em;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
+}
+
+.archive__item-title {
+  margin-top: 0;
+}
+
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.archive__item-title {
+  font-family: "Fraunces", Georgia, serif;
+}

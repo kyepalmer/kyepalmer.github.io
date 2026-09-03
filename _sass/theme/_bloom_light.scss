@@ -1,0 +1,43 @@
+/* ==========================================================================
+    BLOOM THEME - LIGHT VERSION
+    ========================================================================== */
+$primary-color              : #E3A73D;  // Marigold
+$gray                       : #4B5566;  // Ink-based blue-gray, ties greys to the palette
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
+
+$danger-color               : #ee5f5b;
+$info-color                 : #5C8B84;  // Sage
+$notice-color               : $gray;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+
+$border-radius              : 6px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+:root {
+    --global-base-color                 : #{$primary-color};
+    --global-bg-color                   : #F7F4EE;  // Paper
+    --global-footer-bg-color            : #F0EBE0;
+    --global-border-color               : #{$lighter-gray};
+    --global-dark-border-color          : #D8D2C4;
+    --global-code-background-color      : #FBF8F2;
+    --global-code-text-color            : #{$darker-gray};
+    --global-fig-caption-color          : mix(#fff, #{$dark-gray}, 25%);
+    --global-link-color                 : #C6821E;  // deeper marigold, readable on Paper
+    --global-link-color-hover           : mix(#000, #C6821E, 25%);
+    --global-link-color-visited         : #E8848C;  // Petal
+    --global-masthead-link-color        : #{$dark-gray};
+    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);
+    --global-text-color                 : #{$dark-gray};
+    --global-text-color-light           : #{$light-gray};
+    --global-thead-color                : #{$lighter-gray};
+}

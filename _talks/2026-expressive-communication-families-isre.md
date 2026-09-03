@@ -11,3 +11,5 @@ location: "Brisbane, Australia"
 Presented at the International Society for Research on Emotion Conference 2026.
 
 **Citation:** <b>Palmer, K.</b>, Kohler, M., & Nelson, N. (2026). Expressive Communication in Families: Familiarity and Accuracy in an Interactive Emotion Recognition Task. Oral presentation at International Society for Research on Emotion Conference 2026. Brisbane, Australia.
+<br>
+[<strong>Download Slides (PDF)</strong>](/files/ISRE2026.pdf)
