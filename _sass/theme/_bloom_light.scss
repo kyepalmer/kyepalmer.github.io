@@ -1,7 +1,7 @@
 /* ==========================================================================
     BLOOM THEME - LIGHT VERSION
     ========================================================================== */
-$primary-color              : #E3A73D;  // Marigold
+$primary-color              : #E8848C;  // Petal
 $gray                       : #4B5566;  // Ink-based blue-gray, ties greys to the palette
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -34,7 +34,7 @@ $sidebar-screen-min-width   : 1024px;
     --global-fig-caption-color          : mix(#fff, #{$dark-gray}, 25%);
     --global-link-color                 : #C6821E;  // deeper marigold, readable on Paper
     --global-link-color-hover           : mix(#000, #C6821E, 25%);
-    --global-link-color-visited         : #E8848C;  // Petal
+    --global-link-color-visited         : #E3A73D;  // Marigold
     --global-masthead-link-color        : #{$dark-gray};
     --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);
     --global-text-color                 : #{$dark-gray};
