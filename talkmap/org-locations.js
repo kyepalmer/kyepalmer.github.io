@@ -13,10 +13,5 @@ var addressPoints = [
     "Expressive Communication in Families: Familiarity and Accuracy in an Interactive Emotion Recognition Task<br />International Society for Research on Emotion Conference 2026; Brisbane, Australia",
     -27.4689623,
     153.0235009
-  ],
-  [
-    "Emotional Expressions in Infant's Environment<br />Society of Australasian Social Psychologists Conference 2022; Adelaide, South Australia",
-    -34.9281805,
-    138.5999312
   ]
 ];
