@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Infant-directed emotional expressions in everyday life - the role of parent gender and infant age<br />Experimental Psychology Conference 2024; Adelaide, SA, Australia",
+    -34.9281805,
+    138.5999312
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Parent-Child Emotion Recognition: the role of familiarity in interactive contexts<br />Australasian Experimental Psychology Conference (EPC) & Asia Pacific Conference on Vision (APCV); Sydney, NSW, Australia",
+    -33.8698439,
+    151.2082848
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Expressive Communication in Families: Familiarity and Accuracy in an Interactive Emotion Recognition Task<br />International Society for Research on Emotion Conference 2026; Brisbane, Australia",
+    -27.4689623,
+    153.0235009
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Emotional Expressions in Infant's Environment<br />Society of Australasian Social Psychologists Conference 2022; Adelaide, South Australia",
+    -34.9281805,
+    138.5999312
   ]
 ];
