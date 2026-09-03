@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2026-expressive-communication-families-isre
 venue: "International Society for Research on Emotion Conference 2026"
-date: 2026-14-07
+date: 2026-07-14
 location: "Brisbane, Australia"
 ---
 
