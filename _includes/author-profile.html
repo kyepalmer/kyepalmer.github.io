@@ -56,6 +56,8 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
+      {% if author.au_profile %} <li><a href="{{ author.au_profile }}"><img src="{{ '/images/au-crest.png' | prepend: base_path }}" class="au-crest-icon" alt="" />{{ "AU Researcher Profile" }}</a></li> 
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
       {% endif %}                        
