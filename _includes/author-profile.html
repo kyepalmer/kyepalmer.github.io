@@ -56,7 +56,8 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
       {% endif %}
-      {% if author.au_profile %} <li><a href="{{ author.au_profile }}"><img src="{{ '/images/au-crest.png' | prepend: base_path }}" class="au-crest-icon" alt="" />{{ "AU Researcher Profile" }}</a></li> 
+      {% if author.au_profile %}
+      <li><a href="{{ author.au_profile }}"><img src="{{ '/images/au-crest.png' | prepend: base_path }}" alt="" style="width: 1em; height: 1em; display: inline-block; vertical-align: -0.125em; margin-right: 0.5em; object-fit: contain;" />AU Researcher Profile</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
