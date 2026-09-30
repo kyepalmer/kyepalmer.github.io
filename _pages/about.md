@@ -16,4 +16,4 @@ I am passionate about early childhood development, and how children learn to und
 
 I am originally from Adelaide, Australia, where I have been completing a PhD under the supervision of [Dr Nicole Nelson](https://researchers.adelaide.edu.au/profile/nicole.nelson) and [Dr Mark Kohler](https://researchers.adelaide.edu.au/profile/mark.kohler). 
 
-I am open to research roles broadly in the space of developmental, social, and cognitive psychology, though am also interested in work in LGBTQIA+ research, particularly around identity development and emotional wellbeing.
+I am open to research roles broadly in the space of developmental, social, and cognitive psychology.
