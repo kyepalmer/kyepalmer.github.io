@@ -91,7 +91,7 @@ publication_category:
     title: 'Pre-Prints'    
   conferences:
     title: 'Conference Papers'
-  under_review
+  under_review:
     title: 'Papers Under Review'
 
 # Site Settings
