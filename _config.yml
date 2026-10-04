@@ -91,6 +91,8 @@ publication_category:
     title: 'Pre-Prints'    
   conferences:
     title: 'Conference Papers'
+  under_review
+    title: 'Papers Under Review'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
