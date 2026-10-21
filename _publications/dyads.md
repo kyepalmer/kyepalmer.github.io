@@ -3,8 +3,8 @@ title: "Parent-Child Facial Expression Recognition: The Role of Familiarity in I
 collection: publications
 category: preprints
 permalink: /publication/dyads
-excerpt: Across two studies, we examined parents' and children's recognition of emotional expressions during a structured interactive task. Study 1 provided initial evidence for a familiarity effect, with parents outperforming naïve raters at recognising their child's expressions. Study 2 confirmed a bidirectional familiarity advantage: both parents and children were more accurate with their familiar partner than with unfamiliar individuals, suggesting the effect is specific to the parent-child relationship rather than reflecting a general ability to read adult or child faces.
-date: 2026-04-02
+excerpt: "Across two studies, we examined parents' and children's recognition of emotional expressions during a structured interactive task. Study 1 provided initial evidence for a familiarity effect, with parents outperforming naïve raters at recognising their child's expressions. Study 2 confirmed a bidirectional familiarity advantage: both parents and children were more accurate with their familiar partner than with unfamiliar individuals, suggesting the effect is specific to the parent-child relationship rather than reflecting a general ability to read adult or child faces."
+date: 2026-10-20
 venue: 'SSRN'
 paperurl: 'https://dx.doi.org/10.2139/ssrn.7646042'
 citation: '<b>Palmer, K.</b>, Buttle, H.M., Kohler, M., Fong, F.T.K., Nelson, N., &quot;Parent-Child Facial Expression Recognition: The Role of Familiarity in Interactive Contexts.&quot; Available at SSRN: https://dx.doi.org/10.2139/ssrn.7646042 (2026)'
